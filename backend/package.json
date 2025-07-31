@@ -19,12 +19,14 @@
     "start": "node index.js",
     "build": "tsc",
     "dev": "ts-node src/Assignment-2/app.js"
+  
   },
 
   "dependencies": {
     "cookie": "^1.0.2",
     "express": "^5.1.0",
     "fs": "^0.0.1-security",
+    "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "mongoose": "^8.16.4",
