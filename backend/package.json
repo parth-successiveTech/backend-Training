@@ -19,7 +19,9 @@
     "start": "node index.js",
     "build": "tsc",
     "dev": "ts-node src/Assignment-2/app.js"
+  
   },
+
   "dependencies": {
     "cookie": "^1.0.2",
     "express": "^5.1.0",
